@@ -8679,3 +8679,68 @@ dependencies = [
  "syn 2.0.106",
  "winnow",
 ]
+
+[[patch.unused]]
+name = "dioxus"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-asset-resolver"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-cli-config"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-core"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-core-macro"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-devtools"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-document"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-history"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-hooks"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-html"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-signals"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "dioxus-stores"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"
+
+[[patch.unused]]
+name = "manganis"
+version = "0.7.1"
+source = "git+https://github.com/couyit/dioxus?branch=sendable#ae8f1071e1200b08f4abf744464a4a2f4abdc954"

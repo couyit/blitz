@@ -136,6 +136,21 @@ fastrand = "2.3.0"
 rayon = "1"
 thread_local = "1"
 
+[patch.crates-io]
+dioxus = { git = "https://github.com/couyit/dioxus", branch = "sendable" }
+dioxus-core = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-core" }
+dioxus-html = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-html" }
+dioxus-hooks = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-hooks" }
+dioxus-signals = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-signals" }
+dioxus-stores = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-stores" }
+dioxus-asset-resolver = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-asset-resolver" }
+manganis = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "manganis" }
+dioxus-document = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-document" }
+dioxus-history = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-history" }
+dioxus-devtools = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-devtools" }
+dioxus-cli-config = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-cli-config" }
+dioxus-core-macro = { git = "https://github.com/couyit/dioxus", branch = "sendable", package = "dioxus-core-macro" }
+
 [profile.profile]
 inherits = "release"
 debug = true
